@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "FREE.C": "cpp",
+        "ACE.C": "cpp",
+        "stdio.h": "c"
+    }
+}
