@@ -4,5 +4,6 @@
         "FREE.C": "cpp",
         "ACE.C": "cpp",
         "stdio.h": "c"
-    }
+    },
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
 }
